@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSIT 100 Assignment 2 Brianna Martinez 12/18/25</title>
+</head>
+
+<body style="background-color: lightblue;">
+
+    <!-- Title / Header -->
+    <p style="font-weight:bold; font-size:48px; color:green; text-align:center;">
+        Brianna Martinez<br>
+        CSIT 100 – Section 04<br>
+        Assignment #2<br>
+        December 2025
+    </p>
+
+    <hr>
+
+    <!-- Biography Section -->
+    <p style="font-size:20px;">
+        <b>Biography</b><br>
+        I am a student at Montclair State University majoring in Acting.
+        I am interested in computers, web development, and learning how technology
+        can be used to solve real-world problems.
+    </p>
+
+    <!-- Bulleted List -->
+    <p style="font-size:20px;"><b>Hobbies & Interests</b></p>
+    <ul>
+        <li>Arts and Crafts</li>
+        <li>Playing video games</li>
+        <li>Listening to music</li>
+        <li>Dancing</li>
+    </ul>
+
+    <hr>
+
+    <!-- Image -->
+    <p style="font-size:20px;"><b>My Favorite Hobby</b></p>
+    <img src="myphoto.jpg" width="300" alt="My Picture">
+
+    <hr>
+
+    <!-- Table -->
+    <p style="font-size:20px;"><b>My Weekly Schedule</b></p>
+    <table align="center" border="1" width="800">
+        <tr>
+            <th>Day</th>
+            <th>Activity</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>Classes & Homework</td>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>Gym & Study</td>
+        </tr>
+        <tr>
+            <td>Friday</td>
+            <td>Relax & Gaming</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <!-- Links -->
+    <p style="font-size:20px;"><b> https://nest.montclair.edu/Montclair-State-University/montclair-landing </b></p>
+    <a href="https://montclair.edu">Montclair State University</a><br>
+    <a href="https://www.w3schools.com">W3Schools HTML Tutorial</a>
+
+    <hr>
+
+    <!-- Contact Info -->
+        <b>Contact Information</b><br>
+        Email: martinezb23@montclair.edu
+    </p>
+
+</body>
+</html>
